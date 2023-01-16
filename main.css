@@ -33,6 +33,10 @@ html {
   justify-content: space-around;
 }
 
+.name {
+  font-family: 'Lobster', cursive;
+}
+
 .fa {
   font-size: 30px;
   padding: 20px;
